@@ -1,0 +1,28 @@
+{
+  "name": "nodeschool_io-exercises",
+  "version": "1.0.0",
+  "description": "exercises from nodeschool.io",
+  "main": "/",
+  "dependencies": {
+    "bl": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jangrott/nodeschool_io-exercises.git"
+  },
+  "keywords": [
+    "node",
+    "nojs",
+    "npm"
+  ],
+  "author": "TJ",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jangrott/nodeschool_io-exercises/issues"
+  },
+  "homepage": "https://github.com/jangrott/nodeschool_io-exercises#readme"
+}
